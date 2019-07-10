@@ -4,7 +4,20 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/java/cn/tian/TestMars.java" line="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="573e32e6-5b10-467d-bf2e-f5065481acbc" name="Default" comment="" />
+    <list default="true" id="573e32e6-5b10-467d-bf2e-f5065481acbc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tian/Mars1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctBackwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctForword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/tian/MarsStartInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cn/tian/TestMars1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/tian/TestMars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/tian/TestMars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/tian/Mars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/tian/Mars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/tian/TestMars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cn/tian/TestMars.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,17 +32,61 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="600">
+              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMars.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/tian/TestMars.java">
+      <file leaf-file-name="Mars1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/Mars1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="240">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarsDisposeInstrctRight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctRight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarsDisposeInstrctForword.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctForword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarsDisposeInstrctBackwords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctBackwords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarsDisposeInstrct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,11 +94,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mars.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/Mars.java">
+      <file leaf-file-name="MarsDisposeInstrctLeft.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctLeft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+            <state relative-caret-position="120">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarsStartInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsStartInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="52" column="69" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMars1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/tian/TestMars1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,13 +137,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/cn/tian/App.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/cn/tian/TestMars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctForWord.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/tian/Mars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctRight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctLeft.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/tian/TestMars1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tian/MarsStartInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctForword.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctBackwords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/tian/Mars1.java" />
       </list>
     </option>
   </component>
@@ -84,14 +178,15 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,6 +276,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMars.shoulde_show_mars_car_after_moving_location_info">
+  <component name="RunManager" selected="JUnit.TestMars1.should_show_current_location">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -221,7 +317,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestMars.should_show_mars_car_location_info" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMars1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mars" />
       <extension name="coverage">
         <pattern>
@@ -232,8 +328,31 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="cn.tian" />
-      <option name="MAIN_CLASS_NAME" value="cn.tian.TestMars" />
-      <option name="METHOD_NAME" value="should_show_mars_car_location_info" />
+      <option name="MAIN_CLASS_NAME" value="cn.tian.TestMars1" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestMars1.should_show_current_location" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.tian" />
+      <option name="MAIN_CLASS_NAME" value="cn.tian.TestMars1" />
+      <option name="METHOD_NAME" value="should_show_current_location" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -329,17 +448,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestMars.should_show_mars_car_location_info" />
       <item itemvalue="JUnit.TestMars" />
       <item itemvalue="JUnit.TestMars.should_show_mars_car_start_location_info" />
       <item itemvalue="JUnit.TestMars.shoulde_show_mars_car_after_moving_location_info" />
+      <item itemvalue="JUnit.TestMars1.should_show_current_location" />
+      <item itemvalue="JUnit.TestMars1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMars1.should_show_current_location" />
+        <item itemvalue="JUnit.TestMars1" />
         <item itemvalue="JUnit.TestMars.shoulde_show_mars_car_after_moving_location_info" />
         <item itemvalue="JUnit.TestMars" />
         <item itemvalue="JUnit.TestMars.should_show_mars_car_start_location_info" />
-        <item itemvalue="JUnit.TestMars.should_show_mars_car_location_info" />
       </list>
     </recent_temporary>
   </component>
@@ -355,77 +476,79 @@
       <updated>1562137408391</updated>
       <workItem from="1562137412388" duration="11929000" />
       <workItem from="1562204257553" duration="5896000" />
-      <workItem from="1562291062733" duration="7491000" />
+      <workItem from="1562291062733" duration="7785000" />
+      <workItem from="1562552333338" duration="21294000" />
+      <workItem from="1562637750401" duration="16977000" />
+      <workItem from="1562737983459" duration="590000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMars - 2019.07.04 at 10h 52m 05s.xml">
-      <configuration name="TestMars" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 00m 35s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars_shoulde_show_mars_car_after_moving_location_info - 2019.07.05 at 14h 16m 05s.xml">
-      <configuration name="TestMars.shoulde_show_mars_car_after_moving_location_info" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 06m 09s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars_shoulde_show_mars_car_after_moving_location_info - 2019.07.05 at 14h 41m 21s.xml">
-      <configuration name="TestMars.shoulde_show_mars_car_after_moving_location_info" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 09m 14s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars - 2019.07.05 at 15h 01m 26s.xml">
-      <configuration name="TestMars" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 12m 01s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars - 2019.07.05 at 15h 13m 20s.xml">
-      <configuration name="TestMars" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 12m 35s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars_shoulde_show_mars_car_after_moving_location_info - 2019.07.05 at 18h 18m 24s.xml">
-      <configuration name="TestMars.shoulde_show_mars_car_after_moving_location_info" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 34m 33s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars_shoulde_show_mars_car_after_moving_location_info - 2019.07.05 at 18h 20m 52s.xml">
-      <configuration name="TestMars.shoulde_show_mars_car_after_moving_location_info" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 39m 47s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars_should_show_mars_car_start_location_info - 2019.07.05 at 18h 23m 47s.xml">
-      <configuration name="TestMars.should_show_mars_car_start_location_info" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 41m 30s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars - 2019.07.05 at 18h 24m 28s.xml">
-      <configuration name="TestMars" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 43m 59s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMars_shoulde_show_mars_car_after_moving_location_info - 2019.07.05 at 18h 24m 42s.xml">
-      <configuration name="TestMars.shoulde_show_mars_car_after_moving_location_info" configurationId="JUnit" />
+    <history-entry file="TestMars1_should_show_current_location - 2019.07.09 at 15h 44m 48s.xml">
+      <configuration name="TestMars1.should_show_current_location" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25316000" />
+    <option name="totallyTimeSpent" value="64471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32993197" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3265306" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3253833" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39965987" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32993197" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,11 +566,180 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/tian/MarsStartInfo.java</url>
+          <line>30</line>
+          <properties class="cn.tian.MarsStartInfo" method="setStartY">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctForword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="63" lean-forward="true" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctBackwords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsStartInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="52" column="69" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/tian/TestMars1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/Mars1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/tian/TestMars1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/Mars1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctForword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="90" selection-start-line="3" selection-start-column="90" selection-end-line="3" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctBackwords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsStartInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/tian/TestMars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/Mars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -459,9 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="19" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -490,30 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/MyMaven/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/MatcherAssert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
@@ -521,11 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="91" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#3223#3224#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -540,13 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-            <element signature="e#1466#1467#0" expanded="true" />
-            <element signature="e#1820#1821#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,26 +807,122 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="207" selection-start-line="207" selection-end-line="207" />
-          <folding>
-            <element signature="e#9472#9473#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/tian/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/tian/TestMars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="-100">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/Mars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/MyMaven/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/MatcherAssert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/tian/TestMars1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/Mars.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctForword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        <state relative-caret-position="260">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctBackwords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/Mars1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsStartInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="52" column="69" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/tian/MarsDisposeInstrctLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

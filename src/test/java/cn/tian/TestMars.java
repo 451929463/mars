@@ -13,7 +13,7 @@ public class TestMars {
 
     @Test
     public void shoulde_show_mars_car_after_moving_location_info(){
-         assertThat(new Mars("F 10").toString(),is("F 10 N"));
+         assertThat(new Mars("F 10").toString(),is("0 10 N"));
          assertThat(new Mars("F 10 R").toString(),is("0 10 E"));
          assertThat(new Mars("F 10 R F 10").toString(),is("10 10 E"));
          assertThat(new Mars("F 50 R F 50 L F 50 R F 50 R F 50 L L").toString(),is("100 50 N"));
